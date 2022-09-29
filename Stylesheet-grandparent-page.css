@@ -1,0 +1,75 @@
+body 
+    {background-size: cover; 
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(37, 37, 97); 
+    font-size: 1.125rem;
+    }
+    
+
+header 
+    {color: rgb(255, 255, 255);
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    font-size: 3.5rem;
+    align-items: center;
+    padding-left: 25%;
+    padding-right: 25%;}
+     
+nav { 
+    background-color: rgba(80, 177, 241, 0.308);
+    font-family: 'Noto Serif', serif;
+    font-size: 1.25rem;
+    justify-content: space-around ;
+    width: 100%;
+    min-height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(255, 255, 255);}
+
+.container 
+   {width: 1024px;
+    min-height: 300px;
+    margin-left: auto;
+    margin-right: auto;}
+
+     
+.cards {
+        
+    display: flex;
+    justify-content: space-around ;
+    color: rgb(255, 255, 255);}   
+
+p {
+    font-size: 0.75rem;
+    color: rgb(195, 225, 252);}
+
+
+    a:link {
+      color: rgb(255, 255, 255);
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:visited {
+      color: aliceblue;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color: darkgray;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    
+    a:active {
+      color: darkgray;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    
+        

@@ -1,0 +1,56 @@
+body 
+    {
+    background-size: cover; 
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;}
+
+nav 
+    {display: flex;
+    padding-left: 15px;
+    color: rgb(255, 255, 255);
+    
+    font-size: 1.25rem;}
+
+header 
+    {color: rgb(255, 255, 255);
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    font-size: 3.5rem;
+    align-items: center;
+    padding-left: 25%;
+    padding-right: 25%;}
+
+p {
+    font-size: 0.75rem;
+    color: rgb(195, 225, 252);
+    padding-top: 150px;}
+
+    a:link {
+        color: rgb(255, 255, 255);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: aliceblue;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: darkgray;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: darkgray;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      

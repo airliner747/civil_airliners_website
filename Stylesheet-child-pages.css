@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    background: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);}
+    
+header {
+    color: rgb(255, 255, 255);
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    font-size: 3.5rem;
+    align-items: center;
+    padding-left: 15%;
+    padding-right: 25%;}
+
+h1 {
+    padding-left: 2.5%;
+    text-decoration: underline;}
+
+h3 {
+    padding-left: 3%;}
+
+h6 {
+    padding-top: 20%;
+}
